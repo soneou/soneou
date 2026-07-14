@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://rating-system-demo.onrender.com">
+  <a href="https://soneou.github.io/soneou/">
     <img src="assets/hero.svg" width="100%" alt="Neou So — software developer, AI and automation" />
   </a>
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-00D9FF?style=for-the-badge&logo=render&logoColor=07070C)](https://rating-system-demo.onrender.com)
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-00D9FF?style=for-the-badge&logo=githubpages&logoColor=07070C)](https://soneou.github.io/soneou/)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-2F80FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SO_Neou)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-2F80FF?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ma.vin.14418)
 [![Profile views](https://komarev.com/ghpvc/?username=soneou&label=PROFILE+VIEWS&color=ff294d&style=for-the-badge)](https://github.com/soneou)
@@ -69,7 +69,7 @@ I’m always interested in practical software, applied AI, and opportunities to 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-06B6D4?style=for-the-badge&logo=render&logoColor=white)](https://rating-system-demo.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white)](https://soneou.github.io/soneou/)
 [![Telegram](https://img.shields.io/badge/Telegram-Send_a_message-3B82F6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SO_Neou)
 [![Facebook](https://img.shields.io/badge/Facebook-Let's_connect-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ma.vin.14418)
 
