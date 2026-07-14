@@ -3,17 +3,17 @@
   <desc id="desc">Dark glassmorphism developer banner with purple and cyan gradients and a five-star rating motif.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07070C"/>
-      <stop offset="0.46" stop-color="#0F1220"/>
-      <stop offset="1" stop-color="#151927"/>
+      <stop stop-color="#172554"/>
+      <stop offset="0.48" stop-color="#4C1D95"/>
+      <stop offset="1" stop-color="#0E7490"/>
     </linearGradient>
     <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 40) rotate(130) scale(430 360)">
-      <stop stop-color="#FF294D" stop-opacity="0.40"/>
-      <stop offset="1" stop-color="#FF294D" stop-opacity="0"/>
+      <stop stop-color="#F472B6" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 330) rotate(-35) scale(410 280)">
-      <stop stop-color="#2F80FF" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#2F80FF" stop-opacity="0"/>
+      <stop stop-color="#22D3EE" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="line" x1="100" y1="75" x2="1080" y2="285" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FF294D" stop-opacity="0"/>
@@ -37,7 +37,7 @@
   </defs>
 
   <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="30" fill="url(#grid)"/>
+    <rect width="1200" height="360" rx="30" fill="url(#grid)" opacity="0.45"/>
   <rect width="1200" height="360" rx="30" fill="url(#glowPurple)"/>
   <rect width="1200" height="360" rx="30" fill="url(#glowCyan)"/>
 
@@ -50,7 +50,7 @@
   <path d="M65 300 C280 230 475 350 705 270 C870 214 1000 160 1145 185" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
 
   <g transform="translate(78 66)">
-    <rect width="778" height="228" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <rect width="778" height="228" rx="26" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
     <circle cx="41" cy="38" r="5" fill="#FF294D"/>
     <text x="60" y="45" fill="#00D9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">SOFTWARE DEVELOPER · AI · AUTOMATION</text>
 
@@ -60,7 +60,7 @@
   </g>
 
   <g transform="translate(900 76)">
-    <rect width="230" height="205" rx="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect width="230" height="205" rx="28" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.24"/>
     <text x="30" y="45" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">BUILDER MODE</text>
     <text x="30" y="83" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">ON</text>
     <g transform="translate(28 112)">

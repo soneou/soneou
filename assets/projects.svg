@@ -1,0 +1,49 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Selected projects by Neou So</title>
+  <desc id="desc">Four modern cards featuring AI, computer vision, machine learning, and PHP projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172554"/><stop offset="0.5" stop-color="#312E81"/><stop offset="1" stop-color="#164E63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="50" x2="1120" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F472B6"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" stroke="white" stroke-opacity=".04"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="30" fill="url(#grid)"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="54" y="54" fill="#67E8F9" font-size="14" font-weight="800" letter-spacing="3">SELECTED WORK / 2026</text>
+    <text x="54" y="91" fill="white" font-size="28" font-weight="800">Projects built to learn, solve, and ship.</text>
+
+    <g transform="translate(54 122)">
+      <rect width="526" height="124" rx="22" fill="white" fill-opacity=".10" stroke="white" stroke-opacity=".18"/>
+      <circle cx="42" cy="40" r="20" fill="#F472B6" fill-opacity=".22"/><text x="42" y="47" text-anchor="middle" fill="#F9A8D4" font-size="18">01</text>
+      <text x="78" y="39" fill="white" font-size="20" font-weight="800">Autonomous Lane Detection</text>
+      <text x="78" y="66" fill="#C4B5FD" font-size="14">U-Net segmentation for autonomous-driving scenes</text>
+      <text x="78" y="96" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.5">PYTHON  ·  U-NET  ·  COMPUTER VISION</text>
+    </g>
+    <g transform="translate(620 122)">
+      <rect width="526" height="124" rx="22" fill="white" fill-opacity=".10" stroke="white" stroke-opacity=".18"/>
+      <circle cx="42" cy="40" r="20" fill="#8B5CF6" fill-opacity=".30"/><text x="42" y="47" text-anchor="middle" fill="#C4B5FD" font-size="18">02</text>
+      <text x="78" y="39" fill="white" font-size="20" font-weight="800">Multi-object Detection</text>
+      <text x="78" y="66" fill="#C4B5FD" font-size="14">Detecting cars, people, and cats with AI</text>
+      <text x="78" y="96" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.5">JUPYTER  ·  AI  ·  OBJECT DETECTION</text>
+    </g>
+    <g transform="translate(54 270)">
+      <rect width="526" height="124" rx="22" fill="white" fill-opacity=".10" stroke="white" stroke-opacity=".18"/>
+      <circle cx="42" cy="40" r="20" fill="#3B82F6" fill-opacity=".28"/><text x="42" y="47" text-anchor="middle" fill="#93C5FD" font-size="18">03</text>
+      <text x="78" y="39" fill="white" font-size="20" font-weight="800">Spam Email Detection</text>
+      <text x="78" y="66" fill="#C4B5FD" font-size="14">Machine-learning message classification</text>
+      <text x="78" y="96" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.5">MACHINE LEARNING  ·  NLP  ·  CLASSIFICATION</text>
+    </g>
+    <g transform="translate(620 270)">
+      <rect width="526" height="124" rx="22" fill="white" fill-opacity=".10" stroke="white" stroke-opacity=".18"/>
+      <circle cx="42" cy="40" r="20" fill="#22D3EE" fill-opacity=".22"/><text x="42" y="47" text-anchor="middle" fill="#67E8F9" font-size="18">04</text>
+      <text x="78" y="39" fill="white" font-size="20" font-weight="800">Point-of-Sale System</text>
+      <text x="78" y="66" fill="#C4B5FD" font-size="14">Practical software for business workflows</text>
+      <text x="78" y="96" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.5">PHP  ·  WEB DEVELOPMENT  ·  BUSINESS</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="428.5" rx="29.25" stroke="url(#accent)" stroke-width="1.5"/>
+</svg>

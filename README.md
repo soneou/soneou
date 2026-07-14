@@ -15,19 +15,15 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `01` About me
+## Hi, I'm Neou 👋
 
 I'm **Neou So**, a software developer who enjoys building practical products with **AI, computer vision, automation, and backend technologies**. I turn ideas into working software, learn from real-world results, and keep improving the details that make a product useful.
 
-```yaml
-name: Neou So
-role: Software Developer
-focus: [Applied AI, Computer Vision, Automation, Backend Systems]
-currently_building: Practical tools that solve real problems
-principle: "Build. Measure. Learn. Improve."
-```
+> **Software Developer** focused on Applied AI, Computer Vision, Automation, and Backend Systems.
 
-## `02` Technology stack
+🌱 **Learning** by building real products &nbsp;·&nbsp; 🧠 **Exploring** practical AI &nbsp;·&nbsp; ⚡ **Automating** repetitive work
+
+## Tools I build with
 
 <div align="center">
 
@@ -44,88 +40,38 @@ principle: "Build. Measure. Learn. Improve."
 
 </div>
 
-## `03` Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Autonomous Lane Detection U-Net](https://github.com/soneou/Autonomous-Lane-Detection-U-Net)
-Deep-learning lane segmentation for autonomous-driving scenarios.
-
-`Python` `U-Net` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### [Object Detection](https://github.com/soneou/car_person_cat_object_detection)
-Computer-vision experiments for detecting cars, people, and cats.
-
-`Jupyter` `AI` `Object Detection`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Spam Email Detection](https://github.com/soneou/spam_email_detection)
-Machine-learning classification of legitimate and spam messages.
-
-`Machine Learning` `NLP` `Classification`
-
-</td>
-<td width="50%" valign="top">
-
-### [POS System with PHP](https://github.com/soneou/POS-System-with-PHP)
-A practical point-of-sale application for business workflows.
-
-`PHP` `Web Development` `Business Software`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Telegram Video Downloader](https://github.com/soneou/telegram_download_restricted_video)
-A Python utility for automating Telegram video workflows.
-
-`Python` `Automation` `Telegram`
-
-</td>
-<td width="50%" valign="top">
-
-### [YouTube Video Downloader](https://github.com/soneou/yt_download_video)
-A code-driven utility for convenient media downloads.
-
-`Automation` `Media Utility`
-
-</td>
-</tr>
-</table>
-
-## `04` GitHub activity
+## Selected work
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soneou&show_icons=true&hide_border=true&bg_color=07070c&title_color=00d9ff&icon_color=ff294d&text_color=aab3c5&ring_color=2f80ff" alt="Neou So's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soneou&layout=compact&hide_border=true&bg_color=07070c&title_color=00d9ff&text_color=aab3c5" alt="Neou So's most-used languages" />
+  <a href="https://github.com/soneou?tab=repositories"><img width="100%" src="assets/projects.svg" alt="Selected projects by Neou So" /></a>
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=soneou&bg_color=07070c&color=aab3c5&line=2f80ff&point=ff294d&area=true&hide_border=true" alt="Neou So's contribution activity graph" />
+
+[Lane Detection](https://github.com/soneou/Autonomous-Lane-Detection-U-Net) · [Object Detection](https://github.com/soneou/car_person_cat_object_detection) · [Spam Detection](https://github.com/soneou/spam_email_detection) · [POS System](https://github.com/soneou/POS-System-with-PHP) · [All projects →](https://github.com/soneou?tab=repositories)
+
 </div>
 
-## `05` Let's connect
+## Activity at a glance
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soneou&theme=tokyonight" alt="Neou So's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soneou&theme=tokyonight" alt="Neou So's repositories by language" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=soneou&bg_color=161B33&color=C4B5FD&line=8B5CF6&point=67E8F9&area=true&area_color=7C3AED&hide_border=true" alt="Neou So's contribution activity graph" />
+</div>
+
+## Let's build something useful
 
 I’m always interested in practical software, applied AI, and opportunities to build something valuable.
 
 <div align="center">
 
-| Channel | Find me |
-|:---:|:---|
-| Portfolio | [rating-system-demo.onrender.com](https://rating-system-demo.onrender.com) |
-| Telegram | [@SO_Neou](https://t.me/SO_Neou) |
-| Facebook | [Neou So](https://web.facebook.com/ma.vin.14418) |
-| GitHub | [@soneou](https://github.com/soneou) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-06B6D4?style=for-the-badge&logo=render&logoColor=white)](https://rating-system-demo.onrender.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Send_a_message-3B82F6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SO_Neou)
+[![Facebook](https://img.shields.io/badge/Facebook-Let's_connect-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ma.vin.14418)
 
 </div>
 
