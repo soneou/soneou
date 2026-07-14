@@ -1,0 +1,77 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">NEOU SO professional GitHub profile banner</title>
+  <desc id="desc">Dark glassmorphism developer banner with purple and cyan gradients and a five-star rating motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07070C"/>
+      <stop offset="0.46" stop-color="#0F1220"/>
+      <stop offset="1" stop-color="#151927"/>
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 40) rotate(130) scale(430 360)">
+      <stop stop-color="#FF294D" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#FF294D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 330) rotate(-35) scale(410 280)">
+      <stop stop-color="#2F80FF" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#2F80FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="100" y1="75" x2="1080" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF294D" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#2F80FF" stop-opacity="0.70"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="120" y1="120" x2="700" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.55" stop-color="#EDE9FE"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+    </linearGradient>
+    <filter id="blur60" x="-100" y="-100" width="1400" height="560" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glowPurple)"/>
+  <rect width="1200" height="360" rx="30" fill="url(#glowCyan)"/>
+
+  <g filter="url(#blur60)">
+    <circle cx="1070" cy="75" r="95" fill="#FF294D" fill-opacity="0.18"/>
+    <circle cx="130" cy="315" r="90" fill="#2F80FF" fill-opacity="0.15"/>
+  </g>
+
+  <path d="M80 278 C300 214 470 328 690 250 C860 190 976 125 1135 152" stroke="url(#line)" stroke-width="2"/>
+  <path d="M65 300 C280 230 475 350 705 270 C870 214 1000 160 1145 185" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+
+  <g transform="translate(78 66)">
+    <rect width="778" height="228" rx="26" fill="#FFFFFF" fill-opacity="0.045" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <circle cx="41" cy="38" r="5" fill="#FF294D"/>
+    <text x="60" y="45" fill="#00D9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">SOFTWARE DEVELOPER · AI · AUTOMATION</text>
+
+    <text x="38" y="121" fill="url(#textGradient)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="1">NEOU SO</text>
+    <text x="42" y="164" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">Building useful software with clean code, practical AI,</text>
+    <text x="42" y="196" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">and curiosity that refuses to sit quietly.</text>
+  </g>
+
+  <g transform="translate(900 76)">
+    <rect width="230" height="205" rx="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="30" y="45" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2">BUILDER MODE</text>
+    <text x="30" y="83" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">ON</text>
+    <g transform="translate(28 112)">
+      <path d="M14.5 1.8L18.1 9.1L26.1 10.3L20.3 16L21.7 24L14.5 20.2L7.3 24L8.7 16L2.9 10.3L10.9 9.1L14.5 1.8Z" fill="#FBBF24"/>
+      <path d="M49.5 1.8L53.1 9.1L61.1 10.3L55.3 16L56.7 24L49.5 20.2L42.3 24L43.7 16L37.9 10.3L45.9 9.1L49.5 1.8Z" fill="#FBBF24"/>
+      <path d="M84.5 1.8L88.1 9.1L96.1 10.3L90.3 16L91.7 24L84.5 20.2L77.3 24L78.7 16L72.9 10.3L80.9 9.1L84.5 1.8Z" fill="#FBBF24"/>
+      <path d="M119.5 1.8L123.1 9.1L131.1 10.3L125.3 16L126.7 24L119.5 20.2L112.3 24L113.7 16L107.9 10.3L115.9 9.1L119.5 1.8Z" fill="#FBBF24"/>
+      <path d="M154.5 1.8L158.1 9.1L166.1 10.3L160.3 16L161.7 24L154.5 20.2L147.3 24L148.7 16L142.9 10.3L150.9 9.1L154.5 1.8Z" fill="#FBBF24"/>
+    </g>
+    <text x="29" y="174" fill="#00D9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">rating-system-demo.onrender.com</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5"/>
+</svg>

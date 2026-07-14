@@ -1,0 +1,19 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07070C"/>
+      <stop offset="0.52" stop-color="#151927"/>
+      <stop offset="1" stop-color="#0F1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="270" y1="55" x2="930" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF294D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2F80FF"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="26" fill="url(#bg)"/>
+  <path d="M250 75H950" stroke="url(#accent)"/>
+  <text x="600" y="47" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">BUILD · LEARN · IMPROVE · REPEAT</text>
+  <text x="600" y="90" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">github.com/soneou</text>
+  <rect x="0.75" y="0.75" width="1198.5" height="108.5" rx="25.25" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+</svg>
